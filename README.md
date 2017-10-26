@@ -19,3 +19,10 @@ The Files includes image folders, Bootstrap and jQuery assets to setup a simple 
 - Do not change the layout or image sizes.
 - Use [Google fonts](https://www.google.com/fonts) for fonts.
 - Colour codes for the various colours used are:  `#F15A29`
+- As of current PR from @jalasem, this repo now utilizes [Materialize css Framework](http://materializecss.com/)
+- Preview this code using this url https://dcmpa.github.io/crash/
+
+
+### Contributors
+Names of contributors goes here
+- **[Name]** `[github_username]`
