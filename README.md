@@ -21,6 +21,7 @@ The Files includes image folders, Bootstrap and jQuery assets to setup a simple 
 - Colour codes for the various colours used are:  `#F15A29`
 - As of current PR from @jalasem, this repo now utilizes [Materialize css Framework](http://materializecss.com/)
 - Preview this code using this url https://dcmpa.github.io/crash/
+- A great tutorial to get acquainted with [Git Branching](https://learngitbranching.js.org/)
 
 
 ### Contributors
